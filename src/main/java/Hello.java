@@ -13,6 +13,6 @@ public class Hello {
         System.out.println("Hello World!");
         System.out.println(square(11));
         System.out.println(circle(5));
-        System.out.println(triangle(10, 18, 25));
+        System.out.println(triangle(10, 18, 24));
     }
 }
